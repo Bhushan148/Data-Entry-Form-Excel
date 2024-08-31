@@ -88,9 +88,9 @@ Create a **dynamic registration form** in Excel for collecting meeting informati
 ---
 
 ## 📂 **Additional Resources**
-- **[Project Excel File](https://github.com/YourGitHubUsername/Data-Entry-Form-Excel/blob/main/YourFile.xlsx)** 📥
-- **[Data Entry Form Screenshot](https://github.com/YourGitHubUsername/Data-Entry-Form-Excel/blob/main/Images/EntryForm.png)** 📸
-- **[Database Store Data Screenshot](https://github.com/YourGitHubUsername/Data-Entry-Form-Excel/blob/main/Images/DatabaseStore.png)** 📸
+- **[Project Excel File](https://github.com/Bhushan148/Data-Entry-Form-Excel/blob/main/Data%20Entry%20From%20Excel%20File.xlsm148/Forecasting-in-Excel/blob/main/Other%20Resources/Page%201.png)** 📥
+- **[Data Entry Form Screenshot](https://github.com/Bhushan148/Data-Entry-Form-Excel/blob/main/Other%20Resources/Form%20Screenshot.png)** 📸
+- **[Database Store Data Screenshot](https://github.com/Bhushan148/Data-Entry-Form-Excel/blob/main/Other%20Resources/From%20Database%20Screenshot.png)** 📸
 
 ---
 
